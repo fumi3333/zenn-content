@@ -2,7 +2,7 @@
 title: "求人の属性判定に「文章を書かないAI」を使った話。その前に自分の正規表現がどう壊れていたか"
 emoji: "🔍"
 type: "tech"
-topics: ["python", "スクレイピング", "個人開発", "ai", "seo"]
+topics: ["python", "個人開発", "ai", "seo", "求人"]
 published: false
 ---
 
